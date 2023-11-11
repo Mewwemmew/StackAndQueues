@@ -29,5 +29,39 @@ Stack And Queues
 
  ครั้งที่ 2
     ข้อความ = '[{(Hello})]'
+     <br>
     is_error เป็น True
-    Location เป็น ะ
+    <br>
+    Location เป็น [8,9]
+    <br>
+    ![image](https://github.com/Mewwemmew/StackAndQueues/assets/150503581/4a3fe422-50be-458a-9591-e30a8d1dadec)
+    
+ ครั้งที่ 3
+    ข้อความ = '[{(Hello'
+     <br>
+    is_error เป็น True
+    <br>
+    Location เป็น [7]
+    <br>
+    ![image](https://github.com/Mewwemmew/StackAndQueues/assets/150503581/545f67c0-43a1-4d2a-8a25-f029e04bb8d3)
+    
+ ครั้งที่ 4
+    ข้อความ = 'Hello)('
+     <br>
+    is_error เป็น True
+    <br>
+    Location เป็น [5,6]
+    <br>
+    ![image](https://github.com/Mewwemmew/StackAndQueues/assets/150503581/33ea6dbc-9b61-4469-9950-6a4175e7e433)
+    
+ ครั้งที่ 5
+    ข้อความ = '{}{'
+     <br>
+    is_error เป็น True
+    <br>
+    Location เป็น [2]
+    <br>
+    ![image](https://github.com/Mewwemmew/StackAndQueues/assets/150503581/b64fb445-f1a5-4032-943b-ba5702f2b797)
+
+
+
