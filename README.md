@@ -1,7 +1,8 @@
 # StackAndQueues
 Stack And Queues
 
-การทำงานของอัลกอริทึม
+**การทำงานของอัลกอริทึม**
+
   - รับค่า ข้อความ
   - ตั้ง ตัวแปร is_error เป็น false และ location เป็น ลิสต์ และ stack เป็น class Stack
   - นำข้อความมาวนลูป
@@ -16,4 +17,4 @@ Stack And Queues
   - เมื่อวนลูปเสร็จสิ้น ให้ตรวจสอบว่า stack เป็นค่าว่างหรือไม่ ถ้าเป็น ให้ is_error เป็น true และ ให้ ยัดค่าตำแหน่งสุดท้ายไปใน location
   - แล้ว return ค่าของ is_error และ location ออกมา
 
-การทดสอบ
+**การทดสอบ**
