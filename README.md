@@ -1,4 +1,4 @@
-![image](https://github.com/Mewwemmew/StackAndQueues/assets/150503581/74c56e71-8143-4992-80db-3fa455b44a21)# StackAndQueues
+# StackAndQueues
 Stack And Queues
 
 **การทำงานของอัลกอริทึม**
@@ -22,6 +22,7 @@ Stack And Queues
     ข้อความ = '[{(Hello)}]'
     is_error เป็น False
     Location เป็น []
+    <br>
     ![image](https://github.com/Mewwemmew/StackAndQueues/assets/150503581/0dffa0a0-fde8-4daf-b6e6-59b2acffe690)
 
  ครั้งที่ 2
