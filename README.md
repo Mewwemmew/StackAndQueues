@@ -1,4 +1,4 @@
-# StackAndQueues
+![image](https://github.com/Mewwemmew/StackAndQueues/assets/150503581/74c56e71-8143-4992-80db-3fa455b44a21)# StackAndQueues
 Stack And Queues
 
 **การทำงานของอัลกอริทึม**
@@ -18,3 +18,13 @@ Stack And Queues
   - แล้ว return ค่าของ is_error และ location ออกมา
 
 **การทดสอบ**
+  ครั้งที่ 1
+    ข้อความ = '[{(Hello)}]'
+    is_error เป็น False
+    Location เป็น []
+    ![image](https://github.com/Mewwemmew/StackAndQueues/assets/150503581/0dffa0a0-fde8-4daf-b6e6-59b2acffe690)
+
+ ครั้งที่ 2
+    ข้อความ = '[{(Hello})]'
+    is_error เป็น True
+    Location เป็น ะ
