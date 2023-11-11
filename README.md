@@ -12,9 +12,7 @@ Stack And Queues
     ให้ตรวจสอบว่า stack เป็น ค่าว่าหรือไม่ ถ้า ไม่เป็น ให้ ตัวแปร p มีค่าเป็น stack ตัวล่าสุดที่ยัดค่าเข้าไปก่อนหน้า (โดยใช้ pop) ถ้าไม่ใช่ ตัวแปร  p มีค่าว่าง      เปล่า
   - ยัดค่าตัวอักษรใส่ใน ลิสต์ location
   - ตรวจวสอบว่า ค่าของ p เป็น ( และ s เป็น ) หรือ  p เป็น [ และ s เป็น ] หรือ  p เป็น { และ s เป็น }
-    <br>
       ถ้าเป็น ให้ลบ ข้อมูลตัวล่าสุด ของ location ออก
-    <br>
       ถ้าไม่เป็น ให้ is_error มีค่าเป็น true
   - เมื่อวนลูปเสร็จสิ้น ให้ตรวจสอบว่า stack เป็นค่าว่างหรือไม่ ถ้าเป็น ให้ is_error เป็น true และ ให้ ยัดค่าตำแหน่งสุดท้ายไปใน location
   - แล้ว return ค่าของ is_error และ location ออกมา
@@ -22,7 +20,9 @@ Stack And Queues
 **การทดสอบ**
   ครั้งที่ 1
     ข้อความ = '[{(Hello)}]'
+    <br>
     is_error เป็น False
+    <br>
     Location เป็น []
     <br>
     ![image](https://github.com/Mewwemmew/StackAndQueues/assets/150503581/0dffa0a0-fde8-4daf-b6e6-59b2acffe690)
